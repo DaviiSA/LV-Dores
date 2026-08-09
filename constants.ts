@@ -8,7 +8,7 @@ export const ENERGISA_COLORS = {
 export const ADMIN_PASSWORD = 'Dsa21';
 
 // URL fornecida pelo usuário
-export const GOOGLE_SHEETS_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbzzyZMoHBMSgH3Z0jlrtWUxH52w-4MKeQsZ5nDh1MPjR4TrZUpfPl9-4EJZ0dIP0fV5/exec';
+export const GOOGLE_SHEETS_WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbwLkrZ1GMEYAt8uYUbZxh264S-wqw3nf7x3_IwMfrD585fFxSKnU6fLJt_-2MM6TlEyAQ/exec';
 
 export const VTRS = [
   '1645', '1700', '1711', '1769', '1770', '1811', '1859', '1847', '1845', 
